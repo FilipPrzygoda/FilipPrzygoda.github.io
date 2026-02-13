@@ -17,7 +17,7 @@ I actively compete on the main HTB platform to sharpen my practical, hands-on sk
 
 * [cite_start]🎯 **Targets compromised:** 235 
 * [cite_start]📈 **Current Rank:** Top 5% 
-* 🔗 **Profile:** [Check out Filip on HTB]
+* 🔗 **Profile:** [Check out Filip on HTB](https://app.hackthebox.com/users/TWOJ_ID_Z_GLOWNEJ_PLATFORMY)
 
 ---
 
@@ -26,7 +26,7 @@ I actively compete on the main HTB platform to sharpen my practical, hands-on sk
 I am currently pursuing the rigorous **Certified Penetration Testing Specialist (CPTS)** certification. 
 
 > [cite_start]**Verification:** My Academy progress can be confirmed via my official **Student ID: #1980836**. If you are a recruiter or third-party, feel free to ask for my API verification token.
-📄 [View my Full HTB Transcript (PDF)]
+📄 [View my Full HTB Transcript (PDF)](/assets/pdf/HTB Academy Student Transcript.pdf)
 
 ### 📊 Path Progress (Selected Modules)
 
@@ -45,5 +45,5 @@ I am currently pursuing the rigorous **Certified Penetration Testing Specialist 
 
 ## Other links
 
-* 💼 [LinkedIn](LINK_DO_LINKEDIN)
-* 💻 [GitHub](LINK_DO_GITHUB)
+* 💼 [LinkedIn](https://www.linkedin.com/in/filip-przygoda/)
+* 💻 [GitHub](https://github.com/FilipPrzygoda/)
