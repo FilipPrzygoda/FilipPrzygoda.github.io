@@ -7,7 +7,7 @@ title: About
 
 ## Whoami
 
-[cite_start]👋 Hi, I’m **Filip Przygoda**, a cybersecurity enthusiast and ethical hacker. My focus is on mastering penetration testing methodologies and solving complex security challenges.
+👋 Hi, I’m **Filip Przygoda**, a cybersecurity enthusiast and ethical hacker. My focus is on mastering penetration testing methodologies and solving complex security challenges.
 
 ---
 
@@ -15,9 +15,8 @@ title: About
 
 I actively compete on the main HTB platform to sharpen my practical, hands-on skills.
 
-* [cite_start]🎯 **Targets compromised:** 235 
-* [cite_start]📈 **Current Rank:** Top 5% 
-* 🔗 **Profile:** [Check out Filip on HTB](https://app.hackthebox.com/users/TWOJ_ID_Z_GLOWNEJ_PLATFORMY)
+* 🎯 **Targets compromised:** 235 
+* 📈 **Current Rank:** Top 5% 
 
 ---
 
@@ -25,21 +24,45 @@ I actively compete on the main HTB platform to sharpen my practical, hands-on sk
 
 I am currently pursuing the rigorous **Certified Penetration Testing Specialist (CPTS)** certification. 
 
-> [cite_start]**Verification:** My Academy progress can be confirmed via my official **Student ID: #1980836**. If you are a recruiter or third-party, feel free to ask for my API verification token.
+> **Verification:** My Academy progress can be confirmed via my official **Student ID: #HTB-7765BDC63F**. If you are a recruiter or third-party, feel free to ask for my API verification token.
 📄 [View my Full HTB Transcript (PDF)](/assets/pdf/HTB Academy Student Transcript.pdf)
 
-### 📊 Path Progress (Selected Modules)
+### 📊 Full Academy Progress
 
 | Module Name | Status |
 | :--- | :---: |
-| [cite_start]**Penetration Testing Process** [cite: 75] | [cite_start]✅ 100% [cite: 81] |
-| [cite_start]**Network Enumeration with Nmap** [cite: 18] | [cite_start]✅ 100% [cite: 37] |
-| [cite_start]**Shells & Payloads** [cite: 103] | [cite_start]✅ 100% [cite: 120] |
-| [cite_start]**Linux Privilege Escalation** [cite: 43] | [cite_start]✅ 100% [cite: 47] |
-| [cite_start]**Pivoting, Tunneling, and Port Forwarding** [cite: 146]| [cite_start]✅ 100% [cite: 152] |
-| [cite_start]**Windows Privilege Escalation** [cite: 62] | [cite_start]🟡 93.94% [cite: 71] |
-| [cite_start]**Password Attacks** [cite: 134] | [cite_start]🟡 73.08% [cite: 140] |
-| [cite_start]**Active Directory Enumeration & Attacks** [cite: 127]| [cite_start]⏳ 16.67% [cite: 133] |
+| **Intro to Academy** | ✅ 100% |
+| **Getting Started** | ✅ 100% |
+| **Penetration Testing Process** | ✅ 100% |
+| **Network Enumeration with Nmap** | ✅ 100% |
+| **Information Gathering - Web Edition** | ✅ 100% |
+| **Footprinting** | ✅ 100% |
+| **Vulnerability Assessment** | ✅ 100% |
+| **Using Web Proxies** | ✅ 100% |
+| **File Transfers** | ✅ 100% |
+| **Shells & Payloads** | ✅ 100% |
+| **Attacking Common Services** | ✅ 100% |
+| **Login Brute Forcing** | ✅ 100% |
+| **Using the Metasploit Framework** | ✅ 100% |
+| **SQL Injection Fundamentals** | ✅ 100% |
+| **SQLMap Essentials** | ✅ 100% |
+| **Cross-Site Scripting (XSS)** | ✅ 100% |
+| **Command Injections** | ✅ 100% |
+| **File Inclusion** | ✅ 100% |
+| **File Upload Attacks** | ✅ 100% |
+| **Attacking Web Applications with Ffuf** | ✅ 100% |
+| **Linux Privilege Escalation** | ✅ 100% |
+| **Pivoting, Tunneling, and Port Forwarding**| ✅ 100% |
+| **Security Monitoring & SIEM Fundamentals** | ✅ 100% |
+| **Windows Event Logs & Finding Evil** | ✅ 100% |
+| **Windows Privilege Escalation** | 🟡 93.94% |
+| **Incident Handling Process** | 🟡 81.82% |
+| **Documentation & Reporting** | 🟡 75.00% |
+| **Password Attacks** | 🟡 73.08% |
+| **Introduction to Threat Hunting & Hunting With Elastic** | 🟡 66.67% |
+| **Linux Fundamentals** | 🟡 26.67% |
+| **Wi-Fi Penetration Testing Basics** | 🟡 18.75% |
+| **Active Directory Enumeration & Attacks** | 🟡 16.67% |
 
 ---
 
